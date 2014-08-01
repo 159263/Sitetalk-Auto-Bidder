@@ -15,4 +15,6 @@ avascript:{$.getScript("https://rawgit.com/159263/Sitetalk-Auto-Bidder/master/a.
 ```
 * Click the url field, press **j** and paste the script, what you had copied before.
 
-* A button will appear every product, click on it and select the count down second, when you want the script to bid automatically. Have fun! ;)
+* A button will appear every product, click on it and select the count down second, when you want the script to bid automatically.
+
+* Win products easily and have fun! ;)
