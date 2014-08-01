@@ -1,7 +1,9 @@
 #Sitetalk Auto Bidder
 
 Hi guys!
+
 This script helps you to bid automatically on SiteTalk Auction.
+
 Do not lose bids unnecessarily, bid at 1 second! :)
 
 ##Easy to use
